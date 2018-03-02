@@ -1,0 +1,6 @@
+.logo-position {
+	position: absolute;
+    margin: auto;
+    z-index: 100;
+    border-radius: 10%;
+}
